@@ -41,13 +41,16 @@
   background-color: white;
   color: black;
   padding: 1rem;
-  
+  border-radius: 10px;
+   
 }
 
 .btn {
-
+  box-sizing: border-box;
+  padding: 10px;
   font-size: 30px;
   margin: 5px;
   border-radius: 5px;
 
 }
+

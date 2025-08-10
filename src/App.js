@@ -34,7 +34,7 @@ function App() {
       <header className="App-header">
         <div className='calculator'>
             <h1>React Calculator</h1>
-           <input value={display} readOnly/>
+           <input type='text' value={display} readOnly/>
 
            {
             result && <div>
