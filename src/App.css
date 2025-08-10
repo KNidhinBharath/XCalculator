@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.calculator {
+  background-color: white;
+  color: black;
+  padding: 1rem;
+  
+}
+
+.btn {
+
+  font-size: 30px;
+  margin: 5px;
+  border-radius: 5px;
+
+}
